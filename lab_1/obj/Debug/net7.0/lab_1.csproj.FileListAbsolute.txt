@@ -1,0 +1,15 @@
+/Users/alexander/Projects/ULIM_CSharp/lab_1/bin/Debug/net7.0/lab_1
+/Users/alexander/Projects/ULIM_CSharp/lab_1/bin/Debug/net7.0/lab_1.deps.json
+/Users/alexander/Projects/ULIM_CSharp/lab_1/bin/Debug/net7.0/lab_1.runtimeconfig.json
+/Users/alexander/Projects/ULIM_CSharp/lab_1/bin/Debug/net7.0/lab_1.dll
+/Users/alexander/Projects/ULIM_CSharp/lab_1/bin/Debug/net7.0/lab_1.pdb
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.csproj.AssemblyReference.cache
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.AssemblyInfoInputs.cache
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.AssemblyInfo.cs
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.csproj.CoreCompileInputs.cache
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.dll
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/refint/lab_1.dll
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.pdb
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/lab_1.genruntimeconfig.cache
+/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/Debug/net7.0/ref/lab_1.dll
