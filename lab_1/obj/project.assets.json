@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/alexander/.nuget/packages/": {}
+    "C:\\Users\\Alexandru\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexander/Projects/ULIM_CSharp/lab_1/lab_1.csproj",
+      "projectUniqueName": "C:\\Users\\Alexandru\\Projects\\ULIM_CSharp\\lab_1\\lab_1.csproj",
       "projectName": "lab_1",
-      "projectPath": "/Users/alexander/Projects/ULIM_CSharp/lab_1/lab_1.csproj",
-      "packagesPath": "/Users/alexander/.nuget/packages/",
-      "outputPath": "/Users/alexander/Projects/ULIM_CSharp/lab_1/obj/",
+      "projectPath": "C:\\Users\\Alexandru\\Projects\\ULIM_CSharp\\lab_1\\lab_1.csproj",
+      "packagesPath": "C:\\Users\\Alexandru\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alexandru\\Projects\\ULIM_CSharp\\lab_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/alexander/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Alexandru\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
